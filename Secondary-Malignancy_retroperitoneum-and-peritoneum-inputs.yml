@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/secondary-malignancy_retroperitoneum-and-peritoneum-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-malignancy_retroperitoneum-and-peritoneum---primary.py
+inputModule4:
+  class: File
+  path: python/secondary-malignant-neoplasm-retrosecondary-malignancy_retroperitoneum-and-peritoneum-peritoneum-peritoneum---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
